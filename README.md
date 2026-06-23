@@ -14,7 +14,7 @@ The dashboard helps convert sales data into clear, actionable insights. It is de
 - Monthly business KPIs
 
 ## File Included
-- sales-performance-dashboard.pbix
+- sales-performance-dashboard.pbit
 
 ## Tools Used
 - Power BI
@@ -26,7 +26,7 @@ The dashboard helps convert sales data into clear, actionable insights. It is de
 This dashboard can be used to monitor sales performance, identify growth trends, compare business segments, and support management reporting.
 
 ## How to Use
-1. Download the `.pbix` file.
+1. Download the `.pbit` file.
 2. Open it using Power BI Desktop.
 3. Review the dashboard pages and visuals.
 4. Replace or refresh the dataset if needed.
